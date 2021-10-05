@@ -1,7 +1,7 @@
 ### Olá Eu sou Lucas Marchior 👨‍💻 ###
   
   ##
-  <img align="right" src= "img.png" style="max-width: 40%;" />
+  <img align="right" src= "img.png" width= "27%;" />
  
   
   - 🏬 Trabalhando como Analista de Ti...
