@@ -1,6 +1,7 @@
 ### Olá Eu sou Lucas Marchior 👨‍💻 ###
+  
   ##
-  <img align="right" src= "img.png"/>
+  <img align="right" src= "img.png" style="max-width: 40%;" />
  
   
   - 🏬 Trabalhando como Analista de Ti...
@@ -17,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/arsenaljunior">
-  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=arsenaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsenaljunior&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=arsenaljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsenaljunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ars-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
