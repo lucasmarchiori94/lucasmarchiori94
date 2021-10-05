@@ -1,6 +1,6 @@
 ### Olá Eu sou Lucas Marchior 👨‍💻 
   ##
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:200px;" src= "img.png"/>
+  <img align="right" src= "img.png"/>
  
   - 🏬 Trabalhando como Analista de Ti...
   - 📱 Tec. Eletrônica...
