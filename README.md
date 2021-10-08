@@ -1,7 +1,7 @@
 ### Olá Eu sou Lucas Marchior 👨‍💻 <img href="https://github.com/arsenaljunior" src="https://img.shields.io/github/followers/arsenaljunior.svg?style=social&label=Follow&maxAge=2592000"></a>
   
   ##
-  <img align="right" src= "img.png" width= "22%;" />
+  <img align="right" src= "img.png" width= "28%;" />
   
   - 🏬 Trabalhando como Analista de Ti...
   - 📱 Tec. Eletrônica Formado...
