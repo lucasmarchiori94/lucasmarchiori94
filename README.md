@@ -4,7 +4,7 @@
 ### Seja bem Vindo !  <img height="20" href="https://github.com/arsenaljunior" src="https://img.shields.io/github/followers/lucasmarchiori94.svg?style=social&label=Follow&maxAge=2592000"><img align="center" height="30" width="04%;" src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497">
   
   ##
-  <img align="right" src= "imagem1.webp" width= "23%;" />
+  <img align="right" src= "imagem1.webp" width= "28%;" />
   
   - 👨‍💻 Trabalhando como Analista de Ti...
   - 📱 Tec. Eletrônica Formado...
