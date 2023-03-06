@@ -28,9 +28,9 @@
  ##
 
 <div align="center">
-  <a href="https://github.com/arsenaljunior">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=arsenaljunior&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsenaljunior&layout=compact&langs_count=7&theme=blue-green"/>
+  <a href="https://github.com/lucasmarchiori94">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmarchiori94&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarchiori94&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
